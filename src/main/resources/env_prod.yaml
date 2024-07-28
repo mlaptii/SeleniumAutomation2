@@ -1,0 +1,7 @@
+baseUrl: "https://uk.yahoo.com/"
+browser: "chrome"
+userRole: "prod_user"
+db:
+  url: "jdbc:mysql://localhost/proddb"
+  email: "prod_db_user"
+  password: "prod_db_pass"

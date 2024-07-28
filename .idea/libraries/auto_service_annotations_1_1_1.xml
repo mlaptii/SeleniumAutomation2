@@ -1,0 +1,82 @@
+<component name="libraryTable">
+  <library name="auto-service-annotations-1.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/lib/auto-service-annotations-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/byte-buddy-1.14.12.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/checker-qual-3.42.0.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/commons-exec-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/commons-io-2.16.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/error_prone_annotations-2.26.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/failsafe-3.3.2.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/failureaccess-1.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/guava-33.1.0-jre.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/j2objc-annotations-3.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/jackson-annotations-2.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/jackson-databind-2.17.1 (1).jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/jackson-dataformat-yaml-2.17.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/jcommander-1.82.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/jsr305-3.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/junit-4.13.2.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/log4j-1.2-api-2.23.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/log4j-api-2.23.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/lombok.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/opentelemetry-api-1.36.0.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/opentelemetry-api-events-1.36.0-alpha.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/opentelemetry-context-1.36.0.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/opentelemetry-exporter-logging-1.36.0.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/opentelemetry-extension-incubator-1.36.0-alpha.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/opentelemetry-sdk-1.36.0.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/opentelemetry-sdk-common-1.36.0.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/opentelemetry-sdk-extension-autoconfigure-1.36.0.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.36.0.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/opentelemetry-sdk-logs-1.36.0.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/opentelemetry-sdk-metrics-1.36.0.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/opentelemetry-sdk-trace-1.36.0.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/opentelemetry-semconv-1.23.1-alpha.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/rest-assured-3.1.0.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-api-4.19.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-chrome-driver-4.19.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-chromium-driver-4.19.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-devtools-v85-4.19.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-devtools-v121-4.19.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-devtools-v122-4.19.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-devtools-v123-4.19.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-edge-driver-4.19.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-firefox-driver-4.19.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-http-4.19.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-ie-driver-4.19.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-java-4.19.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-json-4.19.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-manager-4.19.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-os-4.19.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-remote-driver-4.19.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-safari-driver-4.19.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-support-4.19.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/snakeyaml-2.2.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/testng-7.10.1.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/testng-7.10.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-api-4.19.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-chrome-driver-4.19.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-chromium-driver-4.19.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-devtools-v85-4.19.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-devtools-v121-4.19.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-devtools-v122-4.19.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-devtools-v123-4.19.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-edge-driver-4.19.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-firefox-driver-4.19.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-http-4.19.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-ie-driver-4.19.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-json-4.19.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-manager-4.19.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-os-4.19.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-remote-driver-4.19.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-safari-driver-4.19.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/lib/selenium-support-4.19.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

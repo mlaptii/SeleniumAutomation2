@@ -1,0 +1,7 @@
+baseUrl: "https://yahoo.com/"
+browser: "chrome"
+userRole: "dev_user"
+db:
+  url: "jdbc:mysql://localhost/devdb"
+  email: "dev_db_user"
+  password: "dev_db_pass"
